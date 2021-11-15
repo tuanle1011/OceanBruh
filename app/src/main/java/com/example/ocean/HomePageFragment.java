@@ -40,7 +40,11 @@ public class HomePageFragment extends Fragment {
     public HomePageFragment() {
         // Required empty public constructor
     }
-
+/** Tuấn: databse, homepage
+ *  Đạt: Search all activity
+ *  Thanh Tuấn: Wishlist
+ *  Hùng: Drinks detail
+ *  Nam: */
 
     /**
      * Use this factory method to create a new instance of
