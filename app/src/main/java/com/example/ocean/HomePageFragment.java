@@ -12,8 +12,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.BaseAdapter;
 
-import com.adapter.cateAdapter;
-import com.model.Categories;
+
 
 
 import java.util.ArrayList;
@@ -24,8 +23,7 @@ import java.util.ArrayList;
  * create an instance of this fragment.
  */
 public class HomePageFragment extends Fragment {
-    ArrayList<Categories> mangCate;
-    cateAdapter cateAdapter;
+
 
 
     // TODO: Rename parameter arguments, choose names that match
