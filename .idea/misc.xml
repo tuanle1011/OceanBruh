@@ -4,9 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Ocean/app/src/main/res/layout/activity_all_recipes.xml" value="0.264" />
+        <entry key="..\:/Ocean/app/src/main/res/layout/activity_main.xml" value="0.14583333333333334" />
         <entry key="..\:/Ocean/app/src/main/res/layout/dong_listview_cate.xml" value="0.264" />
         <entry key="..\:/Ocean/app/src/main/res/layout/fragment_add.xml" value="0.15307971014492755" />
         <entry key="..\:/Ocean/app/src/main/res/layout/fragment_home_page.xml" value="0.24015748031496062" />
+        <entry key="..\:/Ocean/app/src/main/res/menu/item_menu.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
